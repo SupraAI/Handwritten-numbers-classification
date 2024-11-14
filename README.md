@@ -1,7 +1,5 @@
 # 🧠 Handwritten numbers classification
 
-![GitHub license](https://img.shields.io/github/license/your-username/your-repo)
-![GitHub issues](https://img.shields.io/github/issues/your-username/your-repo)
 
 This project implements several neural network models to classify handwritten digits. It builds on fundamental machine learning concepts, specifically perceptrons and the backpropagation algorithm.
 
