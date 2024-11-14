@@ -1,9 +1,4 @@
-# 📌 Nom du Projet
-
-![GitHub stars](https://img.shields.io/github/stars/ton-username/nom-du-repo)
-![GitHub forks](https://img.shields.io/github/forks/ton-username/nom-du-repo)
-![GitHub issues](https://img.shields.io/github/issues/ton-username/nom-du-repo)
-![GitHub license](https://img.shields.io/github/license/ton-username/nom-du-repo)
+# 📌 Handwritten numbers classification
 
 Description concise et impactante du projet : décris en une phrase ce qu'il fait et pour qui il est conçu.
 
