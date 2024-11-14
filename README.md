@@ -1,41 +1,42 @@
-# 📌 Handwritten numbers classification
+# 🧠 Handwritten numbers classification
 
-Description concise et impactante du projet : décris en une phrase ce qu'il fait et pour qui il est conçu.
+![GitHub license](https://img.shields.io/github/license/your-username/your-repo)
+![GitHub issues](https://img.shields.io/github/issues/your-username/your-repo)
 
----
-
-## 🖼️ Aperçu
-
-> Insère ici une capture d’écran ou un GIF du projet pour donner un aperçu visuel de ce à quoi il ressemble. Tu peux ajouter un lien vers une démonstration si disponible.
-
-![Aperçu du projet](./chemin-vers-capture.png)
+This project implements several neural network models to classify handwritten digits. It builds on fundamental machine learning concepts, specifically perceptrons and the backpropagation algorithm.
 
 ---
 
-## 📚 Table des matières
+## 🖼️ Project Overview
 
-1. [À propos](#à-propos)
+> The project includes classification models based on single-layer and multi-layer perceptrons applied to the MNIST dataset. The goal is to automatically recognize handwritten digits using supervised neural networks.
+
+---
+
+## 📚 Table of Contents
+
+1. [About](#about)
 2. [Installation](#installation)
 3. [Usage](#usage)
-4. [Fonctionnalités](#fonctionnalités)
-5. [Contribuer](#contribuer)
-6. [Licence](#licence)
+4. [Features](#features)
+5. [Contributing](#contributing)
+6. [License](#license)
 
 ---
 
-## 🌟 À propos
+## 🌟 About
 
-**Nom du projet** est un projet conçu pour résoudre le problème X. Il est destiné aux utilisateurs Y et propose les fonctionnalités suivantes :
-- Fonctionnalité 1
-- Fonctionnalité 2
-- Fonctionnalité 3
+This project is designed to apply basic neural networks to supervised classification tasks. We focus on binary and multi-class classification using single-layer and multi-layer perceptrons. Key steps include:
+- **Theoretical Analysis:** Understand and mathematically define the problem.
+- **Programming:** Implement and test the learning algorithm.
+- **Evaluation:** Analyze model performance on simulated and real-world data.
 
 ---
 
 ## ⚙️ Installation
 
-Pour installer ce projet, suis ces étapes :
+To install and set up this project, follow these steps:
 
-1. Clone le dépôt
+1. Clone the repository:
    ```bash
-   git clone https://github.com/ton-username/nom-du-repo.git
+   git clone https://github.com/your-username/your-repo.git
