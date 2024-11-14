@@ -30,11 +30,3 @@ This project is designed to apply basic neural networks to supervised classifica
 - **Evaluation:** Analyze model performance on simulated and real-world data.
 
 ---
-
-## ⚙️ Installation
-
-To install and set up this project, follow these steps:
-
-1. Clone the repository:
-   ```bash
-   git clone https://github.com/your-username/your-repo.git
